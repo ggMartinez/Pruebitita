@@ -1,4 +1,5 @@
 <?php
 
+    $nombre = "Juan Carlos";
     echo "Hola";
-    echo "Buen dia";
+    echo "Buen dia $nombre";
