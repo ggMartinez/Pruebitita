@@ -4,3 +4,4 @@
     const PORT = "";
     const NOMBRE_USUARIO = "";
     const PASSWORD = "";
+    const ENCODING = "";
