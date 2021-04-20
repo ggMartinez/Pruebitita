@@ -2,4 +2,4 @@
 
     $nombre = "Juan Carlos";
     echo "Hola";
-    echo "Buen dia $nombre";
+    echo "Good morning $nombre";
