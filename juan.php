@@ -1,2 +1,2 @@
 <?php 
-    echo "Hola juan";
+    echo "Hola juan, como estas?";
