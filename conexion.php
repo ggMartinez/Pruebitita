@@ -17,7 +17,9 @@
 
 
 
-            mysql_connect()......
+            mysql_connect();
+
+            mysql_connect_close();
 
         }
     }
