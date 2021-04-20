@@ -1,0 +1,6 @@
+<?php 
+    const IP = "";
+    const DB = "";
+    const PORT = "";
+    const NOMBRE_USUARIO = "";
+    const PASSWORD = "";
